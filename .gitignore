@@ -1,6 +1,7 @@
 .idea/
 GitDay3.iml
 target/
+
 # Eclipse
 .classpath
 .project
